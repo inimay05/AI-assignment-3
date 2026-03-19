@@ -31,9 +31,9 @@ Measures of Effectiveness
 - Nodes Expanded (Efficiency)
 
 ---
-Requirements
-Python 3.x
-No external libraries required
+Requirements:
+Python 3.x, 
+ No external libraries required
 
 How to Run:
 python filename.py
